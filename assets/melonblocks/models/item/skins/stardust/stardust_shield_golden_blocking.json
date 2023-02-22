@@ -1,0 +1,6 @@
+{
+	"parent": "melonblocks:item/skins/stardust/stardust_shield_blocking",
+	"textures": {
+		"1":"melonblocks:item/skins/stardust/stardust_shield_golden"
+	}
+}

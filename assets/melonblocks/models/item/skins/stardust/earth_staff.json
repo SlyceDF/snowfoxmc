@@ -1,0 +1,6 @@
+{
+	"parent": "melonblocks:item/skins/stardust/stardust_staff",
+	"textures": {
+		"1":"melonblocks:item/skins/stardust/earth_staff"
+	}
+}

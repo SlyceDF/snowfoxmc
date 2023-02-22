@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+    "parent": "melonblocks:item/pets/fangs",
+	"textures": {
+		"layer0": "melonblocks:item/pets/iron_fangs"
+	}
+}

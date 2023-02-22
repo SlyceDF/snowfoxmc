@@ -1,0 +1,7 @@
+{
+    "parent": "block/heavy_weighted_pressure_plate",
+	"overrides": [
+		{"predicate": {"custom_model_data":2000050}, "model": "melonblocks:item/iron_tablet"},
+		{"predicate": {"custom_model_data":2000053}, "model": "melonblocks:item/group_iron_tablet"}
+	]
+}

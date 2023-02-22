@@ -1,0 +1,7 @@
+{
+	"parent": "melonblocks:item/skins/fishingrods/normal_fishing_rod_cast",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "melonblocks:item/skins/fishingrods/maroon_fishing_rod"
+	}
+}

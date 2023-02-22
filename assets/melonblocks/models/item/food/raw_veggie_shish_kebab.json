@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "melonblocks:item/food/raw_veggie_shish_kebab"
+  }
+}

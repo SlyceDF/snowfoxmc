@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond_boots"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000046}, "model": "melonblocks:item/diamonder_boots"},
+		{"predicate": {"custom_model_data":3100029}, "model": "melonblocks:item/skins/halo"}
+	]
+}

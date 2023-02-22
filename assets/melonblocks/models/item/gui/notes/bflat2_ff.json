@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "melonblocks:item/gui/note_overlay",
+    "layer1": "melonblocks:item/gui/notes/b2",
+    "layer2": "melonblocks:item/gui/notes/flat",
+    "layer3": "melonblocks:item/gui/dynamics/ff"
+  }
+}

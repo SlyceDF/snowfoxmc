@@ -1,0 +1,11 @@
+{
+    "parent": "melonblocks:item/sigils/spirit_shield_blocking",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "melonblocks:item/sigils/frame",
+		"2": "melonblocks:item/sigils/spectral_attached",
+		"5": "melonblocks:item/sigils/spirit_shield_spectral",
+		"particle": "melonblocks:item/sigils/spirit_shield_spectral"
+	}
+}

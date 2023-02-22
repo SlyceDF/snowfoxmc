@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "melonblocks:item/pets/claws",
+	"textures": {
+		"layer0": "melonblocks:item/pets/iron_claws"
+	}
+}

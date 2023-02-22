@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/gui/scaled",
+  "textures": {
+    "layer0": "melonblocks:item/gui/nope"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/salmon"
+    },
+    "display": {
+        "head": {
+            "rotation": [ 0, 0, -45 ],
+            "translation": [ 0, -6.5, -6.5],
+            "scale":[ 1, 1, 1 ]
+        }
+    },
+	"overrides": [
+     {"predicate": {"custom_model_data":2000959}, "model": "melonblocks:item/fishingcontest/bait_shrimp"},
+     {"predicate": {"custom_model_data":2000961}, "model": "melonblocks:item/fishingcontest/bait_crayfish"},
+     {"predicate": {"custom_model_data":2000962}, "model": "melonblocks:item/fishingcontest/bait_gray_moth"},
+     {"predicate": {"custom_model_data":2000963}, "model": "melonblocks:item/fishingcontest/bait_green_moth"},
+     {"predicate": {"custom_model_data":2000964}, "model": "melonblocks:item/fishingcontest/bait_grasshopper"},
+     {"predicate": {"custom_model_data":2000965}, "model": "melonblocks:item/fishingcontest/bait_fly"},
+     {"predicate": {"custom_model_data":2000966}, "model": "melonblocks:item/fishingcontest/bait_leech"},
+     {"predicate": {"custom_model_data":2000967}, "model": "melonblocks:item/fishingcontest/bait_worm"}
+	]
+}

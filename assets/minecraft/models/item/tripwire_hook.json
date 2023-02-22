@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/tripwire_hook"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":400009}, "model": "melonblocks:item/keystones/blankkeystone"},
+		{"predicate": {"custom_model_data":500000}, "model": "melonblocks:item/keystones/keystonetier0"},
+		{"predicate": {"custom_model_data":500001}, "model": "melonblocks:item/keystones/keystonetier1"},
+		{"predicate": {"custom_model_data":500002}, "model": "melonblocks:item/keystones/keystonetier2"},
+		{"predicate": {"custom_model_data":500003}, "model": "melonblocks:item/keystones/keystonetier3"},
+		{"predicate": {"custom_model_data":500004}, "model": "melonblocks:item/keystones/keystonetier4"},
+		{"predicate": {"custom_model_data":500005}, "model": "melonblocks:item/keystones/keystonetier5"},
+		{"predicate": {"custom_model_data":500006}, "model": "melonblocks:item/keystones/keystonetier6"}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "melonblocks:item/food/chef_knife",
+	"textures": {
+		"layer0": "melonblocks:item/food/wooden_chef_knife"
+	}
+}

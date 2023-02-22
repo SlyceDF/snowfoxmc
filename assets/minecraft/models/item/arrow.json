@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/arrow"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000532}, "model": "melonblocks:item/arrows/copper_arrow"},
+		{"predicate": {"custom_model_data":2000533}, "model": "melonblocks:item/arrows/iron_arrow"},
+		{"predicate": {"custom_model_data":2000534}, "model": "melonblocks:item/arrows/golden_arrow"},
+		{"predicate": {"custom_model_data":2000535}, "model": "melonblocks:item/arrows/amethyst_arrow"},
+		{"predicate": {"custom_model_data":2000536}, "model": "melonblocks:item/arrows/diamond_arrow"},
+		{"predicate": {"custom_model_data":2000537}, "model": "melonblocks:item/arrows/netherite_arrow"},
+		{"predicate": {"custom_model_data":2000538}, "model": "melonblocks:item/arrows/nepthalite_arrow"},
+		
+		{"predicate": {"custom_model_data":2000904}, "model": "melonblocks:item/arrows/blaze_arrow"},
+		{"predicate": {"custom_model_data":2000905}, "model": "melonblocks:item/arrows/copper_blaze_arrow"},
+		{"predicate": {"custom_model_data":2000906}, "model": "melonblocks:item/arrows/iron_blaze_arrow"},
+		{"predicate": {"custom_model_data":2000907}, "model": "melonblocks:item/arrows/golden_blaze_arrow"},
+		{"predicate": {"custom_model_data":2000908}, "model": "melonblocks:item/arrows/amethyst_blaze_arrow"},
+		{"predicate": {"custom_model_data":2000909}, "model": "melonblocks:item/arrows/diamond_blaze_arrow"},
+		{"predicate": {"custom_model_data":2000910}, "model": "melonblocks:item/arrows/netherite_blaze_arrow"},
+		{"predicate": {"custom_model_data":2000911}, "model": "melonblocks:item/arrows/nepthalite_blaze_arrow"},
+		
+		{"predicate": {"custom_model_data":3000532}, "model": "melonblocks:item/practice/copper_arrow"},
+		{"predicate": {"custom_model_data":3000533}, "model": "melonblocks:item/practice/iron_arrow"},
+		{"predicate": {"custom_model_data":3000534}, "model": "melonblocks:item/practice/golden_arrow"},
+		{"predicate": {"custom_model_data":3000535}, "model": "melonblocks:item/practice/amethyst_arrow"},
+		{"predicate": {"custom_model_data":3000536}, "model": "melonblocks:item/practice/diamond_arrow"},
+		{"predicate": {"custom_model_data":3000537}, "model": "melonblocks:item/practice/netherite_arrow"},
+		{"predicate": {"custom_model_data":3000538}, "model": "melonblocks:item/practice/nepthalite_arrow"}
+	]
+}

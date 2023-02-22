@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "melonblocks:item/food/fish/raw/shark"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [117, -90, 0],
+			"translation": [0, 0, -0.5],
+			"scale": [2, 2, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [117, 90, 0],
+			"translation": [0, 0, -0.5],
+			"scale": [2, 2, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [136.25, -90, 0],
+			"translation": [1.13, 3.2, 3.38],
+			"scale": [1.2, 1.2, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [136.25, 90, 0],
+			"translation": [1.13, 3.2, 3.38],
+			"scale": [1.2, 1.2, 0.6]
+		},
+		"ground": {
+			"translation": [0, 7, 0],
+			"scale": [1.3, 1.3, 0.68]
+		},
+		"gui": {
+			"rotation": [4.55, 21.25, -88.48],
+			"translation": [0.25, 0.5, 0],
+			"scale": [1.1, 1.1, 1]
+		},
+		"head": {
+			"rotation": [0, 0, -26],
+			"translation": [-2, -7.25, -6.5],
+			"scale": [3, 3, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, 0, -45],
+			"translation": [5.25, 6.25, -2],
+			"scale": [4, 4, 4]
+		}
+	}
+}

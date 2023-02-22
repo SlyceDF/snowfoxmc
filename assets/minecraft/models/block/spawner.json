@@ -1,0 +1,6 @@
+{
+    "parent": "melonblocks:block/abstract/cube_smaller",
+    "textures": {
+        "all": "minecraft:block/spawner"
+    }
+}

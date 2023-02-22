@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+	"textures": {
+      "layer0": "item/paper"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000}, "model": "melonblocks:item/adoption_papers"},
+		{"predicate": {"custom_model_data":2001}, "model": "melonblocks:item/adoption_papers_signed"},
+		{"predicate": {"custom_model_data":1000000}, "model": "melonblocks:item/giftcoupon"},
+		{"predicate": {"custom_model_data":2000017}, "model": "melonblocks:item/flextape"}
+	]
+}

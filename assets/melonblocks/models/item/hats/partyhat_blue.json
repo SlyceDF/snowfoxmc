@@ -1,0 +1,6 @@
+{
+	"parent": "melonblocks:item/hats/partyhat",
+	"textures": {
+		"0":"melonblocks:item/hats/partyhat_blue"
+	}
+}

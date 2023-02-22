@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "melonblocks:item/skins/fantasy/nongfu_shortsword",
+	"textures": {
+		"0": "melonblocks:item/skins/fantasy/glacial/shortsword",
+		"particle": "melonblocks:item/skins/fantasy/glacial/shortsword"
+	}
+}

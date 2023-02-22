@@ -1,0 +1,37 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_axe"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":3100007}, "model": "melonblocks:item/skins/daxe"},
+		{"predicate": {"custom_model_data":3100019}, "model": "melonblocks:item/skins/fantasy/azure/greataxe"},
+		{"predicate": {"custom_model_data":3100020}, "model": "melonblocks:item/skins/fantasy/azure/scythe"},
+		{"predicate": {"custom_model_data":3100024}, "model": "melonblocks:item/skins/fantasy/bludgeon"},
+		{"predicate": {"custom_model_data":3100026}, "model": "melonblocks:item/skins/fantasy/waraxe"},
+		{"predicate": {"custom_model_data":3100027}, "model": "melonblocks:item/skins/fantasy/cleaver"},
+		{"predicate": {"custom_model_data":3100033}, "model": "melonblocks:item/skins/fantasy/skeletonaxe"},
+		{"predicate": {"custom_model_data":3100035}, "model": "melonblocks:item/skins/tuna"},
+        {"predicate": {"custom_model_data":3100053}, "model": "melonblocks:item/skins/stardust/stardust_axe_golden"},
+        {"predicate": {"custom_model_data":3100061}, "model": "melonblocks:item/skins/nebula/nebula_axe"},
+        {"predicate": {"custom_model_data": 3100070}, "model": "melonblocks:item/skins/fantasy/vindicator"},
+		{"predicate": {"custom_model_data":3100077}, "model": "melonblocks:item/skins/fantasy/umbral/greataxe"},
+		{"predicate": {"custom_model_data":3100078}, "model": "melonblocks:item/skins/fantasy/umbral/scythe"},
+		{"predicate": {"custom_model_data":3100082}, "model": "melonblocks:item/skins/fantasy/sanguine/greataxe"},
+		{"predicate": {"custom_model_data":3100083}, "model": "melonblocks:item/skins/fantasy/sanguine/scythe"},
+		{"predicate": {"custom_model_data":3100087}, "model": "melonblocks:item/skins/fantasy/radiant/greataxe"},
+		{"predicate": {"custom_model_data":3100088}, "model": "melonblocks:item/skins/fantasy/radiant/scythe"},
+		{"predicate": {"custom_model_data":3100092}, "model": "melonblocks:item/skins/fantasy/glacial/greataxe"},
+		{"predicate": {"custom_model_data":3100093}, "model": "melonblocks:item/skins/fantasy/glacial/scythe"},
+		{"predicate": {"custom_model_data":3100095}, "model": "melonblocks:item/skins/warhammers/cleric_warhammer"},
+		{"predicate": {"custom_model_data":3100096}, "model": "melonblocks:item/skins/warhammers/dragon_headed_warhammer"},
+		{"predicate": {"custom_model_data":3100097}, "model": "melonblocks:item/skins/warhammers/gatekeeper_warhammer"},
+		{"predicate": {"custom_model_data":3100098}, "model": "melonblocks:item/skins/warhammers/gladiator_warhammer"},
+		{"predicate": {"custom_model_data":3100099}, "model": "melonblocks:item/skins/warhammers/lucerne_warhammer"},
+		{"predicate": {"custom_model_data":3100100}, "model": "melonblocks:item/skins/warhammers/peasant_warhammer"},
+		{"predicate": {"custom_model_data":3100101}, "model": "melonblocks:item/skins/warhammers/royal_warhammer"},
+		{"predicate": {"custom_model_data":3100102}, "model": "melonblocks:item/skins/warhammers/skull_warhammer"},
+		{"predicate": {"custom_model_data":3100103}, "model": "melonblocks:item/skins/warhammers/spike_warhammer"},
+		{"predicate": {"custom_model_data":3100104}, "model": "melonblocks:item/skins/warhammers/warhammer_of_lightbringer"}
+	]
+}

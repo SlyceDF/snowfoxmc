@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/honey_bottle"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000446}, "model": "melonblocks:item/food/cactus_juice"},
+		{"predicate": {"custom_model_data":2000447}, "model": "melonblocks:item/food/apple_juice"},
+		{"predicate": {"custom_model_data":2000448}, "model": "melonblocks:item/food/melon_juice"},
+		{"predicate": {"custom_model_data":2000449}, "model": "melonblocks:item/food/berry_juice"},
+		{"predicate": {"custom_model_data":2000450}, "model": "melonblocks:item/food/limeade"},
+		{"predicate": {"custom_model_data":2000451}, "model": "melonblocks:item/food/lemonade"},
+		{"predicate": {"custom_model_data":2000452}, "model": "melonblocks:item/food/fruit_punch"},
+		{"predicate": {"custom_model_data":2000505}, "model": "melonblocks:item/monkfish_oil"},
+		{"predicate": {"custom_model_data":2000509}, "model": "melonblocks:item/food/coffee"},
+		{"predicate": {"custom_model_data":2000510}, "model": "melonblocks:item/food/hot_cocoa"},
+		{"predicate": {"custom_model_data":2000578}, "model": "melonblocks:item/food/mango_juice"},
+		{"predicate": {"custom_model_data":2000592}, "model": "melonblocks:item/food/orange_juice"},
+		{"predicate": {"custom_model_data":2000846}, "model": "melonblocks:item/food/apple_boba"},
+		{"predicate": {"custom_model_data":2000852}, "model": "melonblocks:item/food/berry_boba"},
+		{"predicate": {"custom_model_data":2000854}, "model": "melonblocks:item/food/boba_pearls"},
+		{"predicate": {"custom_model_data":2000859}, "model": "melonblocks:item/food/lemon_boba"},
+		{"predicate": {"custom_model_data":2000865}, "model": "melonblocks:item/food/lime_boba"},
+		{"predicate": {"custom_model_data":2000873}, "model": "melonblocks:item/food/mango_boba"},
+		{"predicate": {"custom_model_data":2000876}, "model": "melonblocks:item/food/melon_boba"},
+		{"predicate": {"custom_model_data":2000881}, "model": "melonblocks:item/food/milk_tea_boba"},
+		{"predicate": {"custom_model_data":2000884}, "model": "melonblocks:item/food/orange_boba"},
+		{"predicate": {"custom_model_data":2000886}, "model": "melonblocks:item/food/strawberry_boba"},
+		{"predicate": {"custom_model_data":2000891}, "model": "melonblocks:item/food/strawberry_juice"},
+		{"predicate": {"custom_model_data":2000931}, "model": "melonblocks:item/food/pineapple_juice"},
+		{"predicate": {"custom_model_data":2000937}, "model": "melonblocks:item/food/pineapple_boba"}
+	]
+}

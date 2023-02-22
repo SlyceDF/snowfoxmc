@@ -1,0 +1,6 @@
+{
+    "parent": "block/yellow_carpet",
+	"overrides": [
+		{"predicate": {"custom_model_data":2000013}, "model": "melonblocks:item/cheeseproduct"}
+	]
+}

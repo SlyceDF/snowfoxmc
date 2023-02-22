@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "melonblocks:item/ornament_kits/ornament_kit_glacial_dagger"
+  }
+}

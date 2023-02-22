@@ -1,0 +1,6 @@
+{
+  "parent": "item/cod",
+  "textures": {
+    "layer0": "melonblocks:item/food/fish/raw/mud_crab"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/carrot"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":400021}, "model": "melonblocks:item/hween/candycorn"},
+	{"predicate": {"custom_model_data":2000315}, "model": "melonblocks:item/food/onion"},
+	{"predicate": {"custom_model_data":2000316}, "model": "melonblocks:item/food/garlic"},
+	{"predicate": {"custom_model_data":2000379}, "model": "melonblocks:item/food/soybean"},
+	{"predicate": {"custom_model_data":2000824}, "model": "melonblocks:item/food/cucumber"},
+	{"predicate": {"custom_model_data":2000825}, "model": "melonblocks:item/food/pickle"}
+  ]
+}

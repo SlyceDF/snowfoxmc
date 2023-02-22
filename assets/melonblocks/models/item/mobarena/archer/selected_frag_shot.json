@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "melonblocks:item/mobarena/archer/frag_shot",
+    "layer1": "melonblocks:item/mobarena/selected"
+  }
+}

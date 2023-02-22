@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/firework_star",
+        "layer1": "item/firework_star_overlay"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000048}, "model": "melonblocks:item/augmenter_empty"},
+		{"predicate": {"custom_model_data":2000049}, "model": "melonblocks:item/augmenter_filled"}
+	]
+}

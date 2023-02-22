@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/defenders/defender",
+  "textures": {
+    "layer0": "melonblocks:item/defenders/wooden_defender"
+  }
+}

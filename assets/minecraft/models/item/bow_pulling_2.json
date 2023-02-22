@@ -1,0 +1,14 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "item/bow_pulling_2"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1200010}, "model": "melonblocks:item/skins/gun/gun2"},
+		{"predicate": {"custom_model_data":3100009}, "model": "melonblocks:item/skins/staves/staff_night_casting_charged"},
+		{"predicate": {"custom_model_data":3100010}, "model": "melonblocks:item/skins/staves/staff_divine_staff_casting_charged"},
+		{"predicate": {"custom_model_data":3100011}, "model": "melonblocks:item/skins/staves/staff_olwen_staff_casting_charged"},
+		{"predicate": {"custom_model_data":3100012}, "model": "melonblocks:item/skins/staves/staff_lich_staff_casting_charged"},
+		{"predicate": {"custom_model_data":3100013}, "model": "melonblocks:item/skins/staves/staff_black_snake_staff_casting_charged"}
+	]
+}

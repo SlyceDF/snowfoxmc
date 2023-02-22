@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/ender_eye"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000084}, "model": "melonblocks:item/eye_of_guardian"}
+	]
+}

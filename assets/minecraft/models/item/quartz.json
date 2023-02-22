@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/quartz"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1100011}, "model": "melonblocks:item/gems/quartz/quartz_1"},
+		{"predicate": {"custom_model_data":1100012}, "model": "melonblocks:item/gems/quartz/quartz_2"},
+		{"predicate": {"custom_model_data":1100013}, "model": "melonblocks:item/gems/quartz/quartz_3"},
+		{"predicate": {"custom_model_data":1100014}, "model": "melonblocks:item/gems/quartz/quartz_4"},
+		{"predicate": {"custom_model_data":1100015}, "model": "melonblocks:item/gems/quartz/quartz_5"},
+		{"predicate": {"custom_model_data":1100056}, "model": "melonblocks:item/gems/ruby/ruby_1"},
+		{"predicate": {"custom_model_data":1100057}, "model": "melonblocks:item/gems/ruby/ruby_2"},
+		{"predicate": {"custom_model_data":1100058}, "model": "melonblocks:item/gems/ruby/ruby_3"},
+		{"predicate": {"custom_model_data":1100059}, "model": "melonblocks:item/gems/ruby/ruby_4"},
+		{"predicate": {"custom_model_data":1100060}, "model": "melonblocks:item/gems/ruby/ruby_5"}
+	]
+}

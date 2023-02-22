@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/bows/bow",
+  "textures": {
+    "layer0": "melonblocks:item/bows/bowdefault_tier6-2"
+  }
+}

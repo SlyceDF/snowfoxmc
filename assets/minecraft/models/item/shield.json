@@ -1,0 +1,70 @@
+{
+    "parent": "builtin/entity",
+    "gui_light": "front",
+    "textures": {
+        "particle": "block/dark_oak_planks"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 10, 6, -4 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 10, 6, 12 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 180, 5 ],
+            "translation": [ -10, 2, -10 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 180, 5 ],
+            "translation": [ 10, 0, -10 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
+        },
+        "gui": {
+            "rotation": [ 15, -25, -5 ],
+            "translation": [ 2, 3, 0 ],
+            "scale": [ 0.65, 0.65, 0.65 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ -2, 4, -5],
+            "scale":[ 0.5, 0.5, 0.5]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 4, 4, 2],
+            "scale":[ 0.25, 0.25, 0.25]
+        }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "item/shield_blocking"
+        },
+		{"predicate": {"custom_model_data":2000036}, "model": "melonblocks:item/sigils/spirit_shield_normal"},
+		{"predicate": {"custom_model_data":2000036, "blocking": 1}, "model": "melonblocks:item/sigils/spirit_shield_normal_blocking"},
+		{"predicate": {"custom_model_data":2000037}, "model": "melonblocks:item/sigils/spirit_shield_blessed"},
+		{"predicate": {"custom_model_data":2000037, "blocking": 1}, "model": "melonblocks:item/sigils/spirit_shield_blessed_blocking"},
+		{"predicate": {"custom_model_data":2000038}, "model": "melonblocks:item/sigils/spirit_shield_arcane"},
+		{"predicate": {"custom_model_data":2000038, "blocking": 1}, "model": "melonblocks:item/sigils/spirit_shield_arcane_blocking"},
+		{"predicate": {"custom_model_data":2000039}, "model": "melonblocks:item/sigils/spirit_shield_elysian"},
+		{"predicate": {"custom_model_data":2000039, "blocking": 1}, "model": "melonblocks:item/sigils/spirit_shield_elysian_blocking"},
+		{"predicate": {"custom_model_data":2000040}, "model": "melonblocks:item/sigils/spirit_shield_divine"},
+		{"predicate": {"custom_model_data":2000040, "blocking": 1}, "model": "melonblocks:item/sigils/spirit_shield_divine_blocking"},
+		{"predicate": {"custom_model_data":2000041}, "model": "melonblocks:item/sigils/spirit_shield_spectral"},
+		{"predicate": {"custom_model_data":2000041, "blocking": 1}, "model": "melonblocks:item/sigils/spirit_shield_spectral_blocking"},
+		
+        { "predicate": { "custom_model_data": 3100058 }, "model": "melonblocks:item/skins/stardust/stardust_shield_golden" },
+        { "predicate": { "custom_model_data": 3100058, "blocking": 1 }, "model": "melonblocks:item/skins/stardust/stardust_shield_golden_blocking" },
+		
+        { "predicate": { "custom_model_data": 3100066 }, "model": "melonblocks:item/skins/nebula/nebula_shield" },
+        { "predicate": { "custom_model_data": 3100066, "blocking": 1 }, "model": "melonblocks:item/skins/nebula/nebula_shield_blocking" }
+    ]
+}

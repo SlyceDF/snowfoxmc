@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/end_crystal"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000000}, "model": "melonblocks:item/lodestone"},
+		{"predicate": {"custom_model_data":2000001}, "model": "melonblocks:item/lodestone_inert"},
+		{"predicate": {"custom_model_data":2000087}, "model": "melonblocks:item/capsules/capsule"},
+		{"predicate": {"custom_model_data":2000088}, "model": "melonblocks:item/capsules/capsule1"},
+		{"predicate": {"custom_model_data":2000089}, "model": "melonblocks:item/capsules/capsule2"},
+		{"predicate": {"custom_model_data":2000090}, "model": "melonblocks:item/capsules/capsule3"},
+		{"predicate": {"custom_model_data":2000091}, "model": "melonblocks:item/capsules/capsules"},
+		{"predicate": {"custom_model_data":2000092}, "model": "melonblocks:item/capsules/capsule1s"},
+		{"predicate": {"custom_model_data":2000093}, "model": "melonblocks:item/capsules/capsule2s"},
+		{"predicate": {"custom_model_data":2000094}, "model": "melonblocks:item/capsules/capsule3s"}
+	]
+}

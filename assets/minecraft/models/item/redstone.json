@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/redstone"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1100061}, "model": "melonblocks:item/gems/ruby/ruby_1"},
+		{"predicate": {"custom_model_data":1100062}, "model": "melonblocks:item/gems/ruby/ruby_2"},
+		{"predicate": {"custom_model_data":1100063}, "model": "melonblocks:item/gems/ruby/ruby_3"},
+		{"predicate": {"custom_model_data":1100064}, "model": "melonblocks:item/gems/ruby/ruby_4"},
+		{"predicate": {"custom_model_data":1100065}, "model": "melonblocks:item/gems/ruby/ruby_5"}
+	]
+}

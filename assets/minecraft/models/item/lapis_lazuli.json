@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/lapis_lazuli"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1100031}, "model": "melonblocks:item/gems/lapis/lapis_1"},
+		{"predicate": {"custom_model_data":1100032}, "model": "melonblocks:item/gems/lapis/lapis_2"},
+		{"predicate": {"custom_model_data":1100033}, "model": "melonblocks:item/gems/lapis/lapis_3"},
+		{"predicate": {"custom_model_data":1100034}, "model": "melonblocks:item/gems/lapis/lapis_4"},
+		{"predicate": {"custom_model_data":1100035}, "model": "melonblocks:item/gems/lapis/lapis_5"}
+	]
+}

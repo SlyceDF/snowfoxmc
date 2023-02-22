@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/petholder/cat_item_head",
+  "textures": {
+    "layer0": "melonblocks:item/petholder/white"
+  }
+}

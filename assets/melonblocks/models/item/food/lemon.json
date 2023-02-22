@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "melonblocks:item/food/lemon"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-3.25, -2.5, -31.66],
+			"translation": [0, 1.75, 1],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.42, 0.42, 0.42]
+		}
+	}
+}

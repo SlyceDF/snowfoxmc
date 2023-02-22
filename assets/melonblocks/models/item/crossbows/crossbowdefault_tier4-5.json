@@ -1,0 +1,6 @@
+{
+  "parent": "item/crossbow",
+  "textures": {
+    "layer0": "melonblocks:item/crossbows/crossbowdefault_tier4-5"
+  }
+}

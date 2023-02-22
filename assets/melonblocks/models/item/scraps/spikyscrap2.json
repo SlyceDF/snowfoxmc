@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "melonblocks:item/scraps/spikyscrap",
+    "layer1": "melonblocks:item/scraps/tier2overlay"
+  }
+}

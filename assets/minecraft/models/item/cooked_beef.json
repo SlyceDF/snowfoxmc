@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_beef"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000285}, "model": "melonblocks:item/food/lemon_butter_scallops"},
+		{"predicate": {"custom_model_data":2000286}, "model": "melonblocks:item/food/crab_cakes"},
+		{"predicate": {"custom_model_data":2000287}, "model": "melonblocks:item/food/grilled_lobster_tail"},
+		{"predicate": {"custom_model_data":2000288}, "model": "melonblocks:item/food/loaded_baked_potato"},
+		{"predicate": {"custom_model_data":2000289}, "model": "melonblocks:item/food/pizza"},
+		{"predicate": {"custom_model_data":2000290}, "model": "melonblocks:item/food/meat_pizza"},
+		{"predicate": {"custom_model_data":2000291}, "model": "melonblocks:item/food/supreme_pizza"},
+		{"predicate": {"custom_model_data":2000310}, "model": "melonblocks:item/food/spaghetti_and_meatballs"},
+		{"predicate": {"custom_model_data":2000311}, "model": "melonblocks:item/food/chicken_alfredo_pasta"},
+		{"predicate": {"custom_model_data":2000313}, "model": "melonblocks:item/food/taco"},
+		{"predicate": {"custom_model_data":2000321}, "model": "melonblocks:item/food/chicken_quesadilla"},
+		{"predicate": {"custom_model_data":2000322}, "model": "melonblocks:item/food/hot_dog"},
+		{"predicate": {"custom_model_data":2000323}, "model": "melonblocks:item/food/bacon_cheeseburger"},
+		{"predicate": {"custom_model_data":2000329}, "model": "melonblocks:item/food/fish_taco"},
+		{"predicate": {"custom_model_data":2000331}, "model": "melonblocks:item/food/pizza_slice"},
+		{"predicate": {"custom_model_data":2000332}, "model": "melonblocks:item/food/meat_pizza_slice"},
+		{"predicate": {"custom_model_data":2000333}, "model": "melonblocks:item/food/supreme_pizza_slice"},
+		{"predicate": {"custom_model_data":2000408}, "model": "melonblocks:item/food/chicken_sandwich"},
+		{"predicate": {"custom_model_data":2000409}, "model": "melonblocks:item/food/fish_sandwich"},
+		{"predicate": {"custom_model_data":2000410}, "model": "melonblocks:item/food/blt"},
+		{"predicate": {"custom_model_data":2000411}, "model": "melonblocks:item/food/hearty_breakfast"},
+		{"predicate": {"custom_model_data":2000412}, "model": "melonblocks:item/food/cheese_sandwich"},
+		{"predicate": {"custom_model_data":2000414}, "model": "melonblocks:item/food/sandwich"},
+		{"predicate": {"custom_model_data":2000928}, "model": "melonblocks:item/food/burro"},
+		{"predicate": {"custom_model_data":2000932}, "model": "melonblocks:item/food/taco_grande"}
+
+	]
+}
+}

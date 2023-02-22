@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "melonblocks:item/xmas/instakill_dart"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [112.14, -84.39, -24.25],
+			"translation": [0, -1.5, 0],
+			"scale": [1, 1, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-112.14, -84.39, 24.25],
+			"translation": [0, -1.5, 0],
+			"scale": [1, 1, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [82.3, 76.31, 137.79],
+			"translation": [3.5, 2, -1],
+			"scale": [1, 1, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-82.3, 76.31, -137.79],
+			"translation": [3.5, 2, -1],
+			"scale": [1, 1, 0.5]
+		}
+	}
+}

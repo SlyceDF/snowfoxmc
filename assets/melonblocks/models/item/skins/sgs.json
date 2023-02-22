@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/skins/godsword",
+  "textures": {
+    "layer0": "melonblocks:item/skins/godswords/saradomin_godsword"
+  }
+}

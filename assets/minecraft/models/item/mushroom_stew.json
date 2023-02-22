@@ -1,0 +1,35 @@
+{
+    "parent": "item/generated",
+	"textures": {
+      "layer0": "item/mushroom_stew"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000054}, "model": "melonblocks:item/raw_egg"},
+		{"predicate": {"custom_model_data":2000055}, "model": "melonblocks:item/cooked_egg"},
+		{"predicate": {"custom_model_data":2000229}, "model": "melonblocks:item/food/ramen/ramen"},
+		{"predicate": {"custom_model_data":2000274}, "model": "melonblocks:item/food/potato_soup"},
+		{"predicate": {"custom_model_data":2000275}, "model": "melonblocks:item/food/tomato_soup"},
+		{"predicate": {"custom_model_data":2000277}, "model": "melonblocks:item/food/hearty_beef_stew"},
+		{"predicate": {"custom_model_data":2000292}, "model": "melonblocks:item/food/shark_soup"},
+		{"predicate": {"custom_model_data":2000293}, "model": "melonblocks:item/food/clam_chowder"},
+		{"predicate": {"custom_model_data":2000296}, "model": "melonblocks:item/food/lavish_potato_salad"},
+		{"predicate": {"custom_model_data":2000413}, "model": "melonblocks:item/food/mac_n_cheese"},
+		{"predicate": {"custom_model_data":2000417}, "model": "melonblocks:item/food/garden_salad"},
+		{"predicate": {"custom_model_data":2000418}, "model": "melonblocks:item/food/chicken_caesar_salad"},
+		{"predicate": {"custom_model_data":2000419}, "model": "melonblocks:item/food/seafood_salad"},
+		{"predicate": {"custom_model_data":2000420}, "model": "melonblocks:item/food/fruit_salad"},
+		{"predicate": {"custom_model_data":2000456}, "model": "melonblocks:item/food/salad"},
+		{"predicate": {"custom_model_data":2000463}, "model": "melonblocks:item/food/bacon_bits"},
+		{"predicate": {"custom_model_data":2000464}, "model": "melonblocks:item/food/cheesy_buttersauce"},
+		{"predicate": {"custom_model_data":2000465}, "model": "melonblocks:item/food/veggie_medley"},
+		{"predicate": {"custom_model_data":2000468}, "model": "melonblocks:item/food/gumbo"},
+		{"predicate": {"custom_model_data":2000473}, "model": "melonblocks:item/food/garden_soup"},
+		{"predicate": {"custom_model_data":2000474}, "model": "melonblocks:item/food/carrot_soup"},
+		{"predicate": {"custom_model_data":2000475}, "model": "melonblocks:item/food/pumpkin_soup"},
+		{"predicate": {"custom_model_data":2000482}, "model": "melonblocks:item/food/seaweed_soup"},
+		{"predicate": {"custom_model_data":2000511}, "model": "melonblocks:item/food/bowl_of_rice"},
+		{"predicate": {"custom_model_data":2000586}, "model": "melonblocks:item/food/mushroom_mac_n_cheese"},
+		{"predicate": {"custom_model_data":2000587}, "model": "melonblocks:item/food/bacon_mac_n_cheese"},
+		{"predicate": {"custom_model_data":2000588}, "model": "melonblocks:item/food/lobster_mac_n_cheese"}
+	]
+}

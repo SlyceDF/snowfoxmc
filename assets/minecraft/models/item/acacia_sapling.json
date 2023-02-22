@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/acacia_sapling"
+  },
+	"overrides": [
+     {"predicate": {"custom_model_data":2000579}, "model": "melonblocks:block/saplings/palm_sapling"},
+	 {"predicate": {"custom_model_data":2000897}, "model": "melonblocks:block/saplings/pineapple_sapling"}
+	]
+}

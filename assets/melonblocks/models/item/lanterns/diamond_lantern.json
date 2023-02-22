@@ -1,0 +1,7 @@
+{
+  "parent": "melonblocks:item/lanterns/lantern",
+	"texture_size": [32, 32],
+  "textures": {
+    "layer0": "melonblocks:item/lanterns/diamond_lantern"
+  }
+}

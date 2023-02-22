@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/reprisers/repriser",
+  "textures": {
+    "layer0": "melonblocks:item/reprisers/netherite_repriser"
+  }
+}

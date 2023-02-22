@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/furnace_minecart"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000010}, "model": "melonblocks:item/big_looting_bag"}
+	]
+}

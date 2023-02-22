@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/popped_chorus_fruit"
+  },
+	"overrides": [
+     {"predicate": {"custom_model_data":2000489}, "model": "melonblocks:item/nepthalite_dust"},
+     {"predicate": {"custom_model_data":2000498}, "model": "melonblocks:item/infused_catalyst"},
+     {"predicate": {"custom_model_data":2000499}, "model": "melonblocks:item/diamethyst_dust"},
+     {"predicate": {"custom_model_data":2000500}, "model": "melonblocks:item/netherite_dust"},
+     {"predicate": {"custom_model_data":2000507}, "model": "melonblocks:item/firegold_powder"}
+	]
+}

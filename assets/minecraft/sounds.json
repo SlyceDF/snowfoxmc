@@ -1,0 +1,42 @@
+{
+  "melon.strikebark": {
+    "category": "master",
+    "sounds": [
+      "custom/strikebark"
+    ]
+  },
+  "gunshot": {
+    "category": "master",
+    "sounds": [
+      "custom/gunshot"
+    ]
+  },
+  "melon.electric_explode": {
+    "category": "master",
+    "sounds": [
+      "custom/electric_explode1",
+      "custom/electric_explode2",
+      "custom/electric_explode3"
+    ]
+  },
+  "melon.zap": {
+    "category": "master",
+    "sounds": [
+      "custom/zap1",
+      "custom/zap2",
+      "custom/zap3"
+    ]
+  },
+  "melon.freeze": {
+    "category": "master",
+    "sounds": [
+      "custom/freeze"
+    ]
+  },
+  "melon.phoenix": {
+    "category": "master",
+    "sounds": [
+      "custom/phoenix"
+    ]
+  }
+}

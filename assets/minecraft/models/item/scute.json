@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/scute"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000029}, "model": "melonblocks:item/accellbuck"}
+	]
+}

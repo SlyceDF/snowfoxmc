@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_shovel"
+  },
+	"overrides": [
+        {"predicate": {"custom_model_data":1000}, "model": "melonblocks:item/mobarena/lute"},
+		{"predicate": {"custom_model_data":3100035}, "model": "melonblocks:item/skins/tuna"},
+        {"predicate": {"custom_model_data":3100054}, "model": "melonblocks:item/skins/stardust/stardust_shovel_golden"},
+        {"predicate": {"custom_model_data":3100062}, "model": "melonblocks:item/skins/nebula/nebula_shovel"}
+	]
+}

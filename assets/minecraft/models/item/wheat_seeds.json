@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/wheat_seeds"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000357}, "model": "melonblocks:item/food/corn_kernels"},
+		{"predicate": {"custom_model_data":2000467}, "model": "melonblocks:item/food/bell_pepper_seeds"},
+		{"predicate": {"custom_model_data":2000560}, "model": "melonblocks:item/food/beans"}
+	]
+}

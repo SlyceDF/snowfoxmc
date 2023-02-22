@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "melonblocks:item/inactive_tp_tablet"
+  }
+}

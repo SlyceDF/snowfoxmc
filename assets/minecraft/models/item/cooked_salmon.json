@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_salmon"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000244}, "model": "melonblocks:item/food/sushi/roll_salmon"},
+		{"predicate": {"custom_model_data":2000245}, "model": "melonblocks:item/food/sushi/nigiri_salmon"},
+		{"predicate": {"custom_model_data":2000249}, "model": "melonblocks:item/food/sushi/roll_tuna"},
+		{"predicate": {"custom_model_data":2000250}, "model": "melonblocks:item/food/sushi/nigiri_tuna"},
+		{"predicate": {"custom_model_data":2000253}, "model": "melonblocks:item/food/sushi/sushi_feast_salmon"},
+		{"predicate": {"custom_model_data":2000254}, "model": "melonblocks:item/food/sushi/sushi_feast_tuna"},
+		{"predicate": {"custom_model_data":2000297}, "model": "melonblocks:item/food/sushi/shrimp_nigiri"},
+		{"predicate": {"custom_model_data":2000298}, "model": "melonblocks:item/food/sushi/shrimp_roll"},
+		{"predicate": {"custom_model_data":2000299}, "model": "melonblocks:item/food/sushi/shrimp_sushi_feast"},
+		{"predicate": {"custom_model_data":2000300}, "model": "melonblocks:item/food/sushi/mackerel_nigiri"},
+		{"predicate": {"custom_model_data":2000301}, "model": "melonblocks:item/food/sushi/mackerel_roll"},
+		{"predicate": {"custom_model_data":2000302}, "model": "melonblocks:item/food/sushi/mackerel_sushi_feast"},
+		{"predicate": {"custom_model_data":2000359}, "model": "melonblocks:item/food/sushi/roe_salmon"},
+		{"predicate": {"custom_model_data":2000469}, "model": "melonblocks:item/food/honey_grilled_salmon"}
+	]
+}

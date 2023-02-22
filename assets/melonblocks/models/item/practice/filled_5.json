@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "melonblocks:item/flask/overlay_5",
+    "layer1": "melonblocks:item/flask/empty",
+    "layer2": "melonblocks:item/practice/dot"
+  }
+}

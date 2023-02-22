@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/shears"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1000}, "model": "melonblocks:item/achievements/medal_bronze"},
+		{"predicate": {"custom_model_data":1001}, "model": "melonblocks:item/achievements/medal_silver"},
+		{"predicate": {"custom_model_data":1002}, "model": "melonblocks:item/achievements/medal_gold"},
+		{"predicate": {"custom_model_data":1003}, "model": "melonblocks:item/achievements/medal_platinum"},
+		{"predicate": {"custom_model_data":1004}, "model": "melonblocks:item/achievements/medal_platinum_red"},
+		{"predicate": {"custom_model_data":2000}, "model": "melonblocks:item/achievements/medal_bronze_d"},
+		{"predicate": {"custom_model_data":2001}, "model": "melonblocks:item/achievements/medal_silver_d"},
+		{"predicate": {"custom_model_data":2002}, "model": "melonblocks:item/achievements/medal_gold_d"},
+		{"predicate": {"custom_model_data":2003}, "model": "melonblocks:item/achievements/medal_platinum_d"},
+		{"predicate": {"custom_model_data":2004}, "model": "melonblocks:item/achievements/medal_platinum_d"},
+		{"predicate": {"custom_model_data":3000}, "model": "melonblocks:item/achievements/medal_bronze_s"},
+		{"predicate": {"custom_model_data":3001}, "model": "melonblocks:item/achievements/medal_silver_s"},
+		{"predicate": {"custom_model_data":3002}, "model": "melonblocks:item/achievements/medal_gold_s"},
+		{"predicate": {"custom_model_data":3003}, "model": "melonblocks:item/achievements/medal_platinum_s"},
+		{"predicate": {"custom_model_data":3004}, "model": "melonblocks:item/achievements/medal_platinum_red_s"},
+		{"predicate": {"custom_model_data":2000956}, "model": "melonblocks:item/wing/silver_wing"}
+	]
+}

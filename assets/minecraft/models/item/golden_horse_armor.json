@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/golden_horse_armor"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":400033}, "model": "melonblocks:item/xmas/christmas_cracker"}
+	]
+}

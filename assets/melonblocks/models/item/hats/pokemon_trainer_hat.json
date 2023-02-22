@@ -1,0 +1,93 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"3": "melonblocks:item/hats/pokemon_trainer_hat",
+		"particle": "melonblocks:item/hats/pokemon_trainer_hat"
+	},
+	"elements": [
+		{
+			"from": [4, 1, 4],
+			"to": [12, 4, 12],
+			"faces": {
+				"north": {"uv": [8, 2, 10, 2.75], "texture": "#3"},
+				"east": {"uv": [14, 2, 16, 2.75], "texture": "#3"},
+				"south": {"uv": [12, 2, 14, 2.75], "texture": "#3"},
+				"west": {"uv": [10, 2, 12, 2.75], "texture": "#3"},
+				"up": {"uv": [10, 0, 12, 2], "texture": "#3"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [4, 0, 1],
+			"to": [12, 1, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 2.25, 0.25], "texture": "#3"},
+				"east": {"uv": [0, 0, 2.75, 0.25], "texture": "#3"},
+				"south": {"uv": [0, 0, 2, 0.25], "texture": "#3"},
+				"west": {"uv": [0, 0, 2.75, 0.25], "texture": "#3"},
+				"up": {"uv": [0, 0, 2, 2.75], "texture": "#3"},
+				"down": {"uv": [0, 0, 2, 2.75], "texture": "#3"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [24, 0, -1],
+			"translation": [0.5, 5.25, 2.75],
+			"scale": [0.71, 0.71, 0.71]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [24, 178, -1],
+			"translation": [0.5, 5.25, 2.75],
+			"scale": [0.71, 0.71, 0.71]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 68, -3.25],
+			"translation": [2.25, 5.25, 1.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 75.5, 0],
+			"translation": [3.5, 7.5, 0]
+		},
+		"ground": {
+			"translation": [-2.5, 7.5, 1.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [33.25, -151, 0],
+			"translation": [-0.25, 5.25, 0],
+			"scale": [1.02766, 1.02766, 1.02766]
+		},
+		"head": {
+			"translation": [0, 16, 0],
+			"scale": [1.81641, 1.81641, 1.81641]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [-0.75, 2.75, -13],
+			"scale": [1.61109, 1.61109, 1.61109]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [
+				{
+					"name": "group",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"children": []
+				}
+			]
+		}, 0, 1]
+}

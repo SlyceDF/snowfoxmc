@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "melonblocks:item/food/chips_n_salsa"
+  }
+}

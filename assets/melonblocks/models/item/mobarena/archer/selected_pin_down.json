@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "melonblocks:item/mobarena/archer/pin_down",
+    "layer1": "melonblocks:item/mobarena/selected"
+  }
+}

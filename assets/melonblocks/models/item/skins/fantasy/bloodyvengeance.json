@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "melonblocks:item/skins/fantasy/katana_base",
+	"textures": {
+		"bloodyvengeance": "melonblocks:item/skins/fantasy/bloodyvengeance"
+	}
+}

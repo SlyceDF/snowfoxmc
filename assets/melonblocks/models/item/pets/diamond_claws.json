@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/pets/claws",
+  "textures": {
+    "layer0": "melonblocks:item/pets/diamond_claws"
+  }
+}

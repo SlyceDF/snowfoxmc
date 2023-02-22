@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/beetroot"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":400010}, "model": "melonblocks:item/keystones/corruptedheart"}
+	]
+}

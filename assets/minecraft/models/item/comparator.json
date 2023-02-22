@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/comparator"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000003}, "model": "melonblocks:item/inspector"}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "melonblocks:item/food/fish/raw/anchovy"
+	},
+	"gui_light": "front",
+	"display": {
+		"ground": {
+			"scale": [0.6, 0.6, 0.4]
+		},
+		"head": {
+			"rotation": [0, 0, 44],
+			"translation": [0.25, -4.75, -6.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"fixed": {
+			"rotation": [0, 0, -5],
+			"scale": [0.9, 0.9, 0.9]
+		}
+	}
+}

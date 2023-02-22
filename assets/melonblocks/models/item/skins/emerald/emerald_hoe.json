@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "melonblocks:item/skins/emerald/emerald_hoe"
+  }
+}

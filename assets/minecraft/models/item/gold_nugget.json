@@ -1,0 +1,23 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/gold_nugget"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":400000}, "model": "melonblocks:item/augments/capacitor"},
+		{"predicate": {"custom_model_data":400001}, "model": "melonblocks:item/augments/dissolutioncatalyst"},
+		{"predicate": {"custom_model_data":400002}, "model": "melonblocks:item/augments/gizmoprot"},
+		{"predicate": {"custom_model_data":400003}, "model": "melonblocks:item/augments/gizmoproj"},
+		{"predicate": {"custom_model_data":400004}, "model": "melonblocks:item/augments/gizmoblast"},
+		{"predicate": {"custom_model_data":400005}, "model": "melonblocks:item/augments/gizmofire"},
+		{"predicate": {"custom_model_data":400006}, "model": "melonblocks:item/augments/unstablecore"},
+		{"predicate": {"custom_model_data":400007}, "model": "melonblocks:item/augments/fissioncomponent"},
+		{"predicate": {"custom_model_data":400008}, "model": "melonblocks:item/augments/magicalsuppressor"},
+		{"predicate": {"custom_model_data":400012}, "model": "melonblocks:item/keystones/coinpouch"},
+		{"predicate": {"custom_model_data":1100041}, "model": "melonblocks:item/gems/topaz/topaz_1"},
+		{"predicate": {"custom_model_data":1100042}, "model": "melonblocks:item/gems/topaz/topaz_2"},
+		{"predicate": {"custom_model_data":1100043}, "model": "melonblocks:item/gems/topaz/topaz_3"},
+		{"predicate": {"custom_model_data":1100044}, "model": "melonblocks:item/gems/topaz/topaz_4"},
+		{"predicate": {"custom_model_data":1100045}, "model": "melonblocks:item/gems/topaz/topaz_5"}
+	]
+}

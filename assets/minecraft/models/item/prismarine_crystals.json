@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/prismarine_crystals"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1100051}, "model": "melonblocks:item/gems/ice/ice_1"},
+		{"predicate": {"custom_model_data":1100052}, "model": "melonblocks:item/gems/ice/ice_2"},
+		{"predicate": {"custom_model_data":1100053}, "model": "melonblocks:item/gems/ice/ice_3"},
+		{"predicate": {"custom_model_data":1100054}, "model": "melonblocks:item/gems/ice/ice_4"},
+		{"predicate": {"custom_model_data":1100055}, "model": "melonblocks:item/gems/ice/ice_5"},
+		{"predicate": {"custom_model_data":2000005}, "model": "melonblocks:item/rare_candies"},
+		{"predicate": {"custom_model_data":2000006}, "model": "melonblocks:item/rarer_candies"}
+	]
+}

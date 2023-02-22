@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/apple"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":200114}, "model": "melonblocks:item/telescope"},
+		{"predicate": {"custom_model_data":200115}, "model": "melonblocks:item/hats/plague_cleric"},
+		{"predicate": {"custom_model_data":400018}, "model": "melonblocks:item/hween/caramelapple"},
+		{"predicate": {"custom_model_data":2000258}, "model": "melonblocks:item/food/tomato"},
+		{"predicate": {"custom_model_data":2000297}, "model": "melonblocks:item/food/lemon"},
+		{"predicate": {"custom_model_data":2000314}, "model": "melonblocks:item/food/lime"},
+		{"predicate": {"custom_model_data":2000377}, "model": "melonblocks:item/food/lettuce"},
+		{"predicate": {"custom_model_data":2000466}, "model": "melonblocks:item/food/bell_pepper"},
+		{"predicate": {"custom_model_data":2000559}, "model": "melonblocks:item/food/mango"},
+		{"predicate": {"custom_model_data":2000586}, "model": "melonblocks:item/food/orange"},
+		{"predicate": {"custom_model_data":2000896}, "model": "melonblocks:item/food/pineapple_ring"},
+		{"predicate": {"custom_model_data":2000921}, "model": "melonblocks:item/food/avocado"},
+		{"predicate": {"custom_model_data":2000922}, "model": "melonblocks:item/food/guacamole"},
+		{"predicate": {"custom_model_data":2000923}, "model": "melonblocks:item/food/salsa"},
+		{"predicate": {"custom_model_data":2000924}, "model": "melonblocks:item/food/queso"}
+	]
+}

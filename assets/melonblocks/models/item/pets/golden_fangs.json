@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/pets/fangs",
+  "textures": {
+    "layer0": "melonblocks:item/pets/golden_fangs"
+  }
+}

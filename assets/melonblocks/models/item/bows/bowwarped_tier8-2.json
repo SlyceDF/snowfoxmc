@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/bows/bow",
+  "textures": {
+    "layer0": "melonblocks:item/bows/bowwarped_tier8-2"
+  }
+}

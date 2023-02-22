@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "melonblocks:item/dna_bases",
+    "layer1": "melonblocks:item/dna_helix"
+  }
+}

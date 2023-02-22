@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "melonblocks:item/skins/fantasy/nongfu_greatsword",
+	"textures": {
+		"0": "melonblocks:item/skins/fantasy/glacial/greatsword",
+		"particle": "melonblocks:item/skins/fantasy/glacial/greatsword"
+	}
+}

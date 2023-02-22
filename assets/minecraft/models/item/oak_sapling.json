@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/oak_sapling"
+  },
+	"overrides": [
+     {"predicate": {"custom_model_data":2000372}, "model": "melonblocks:block/saplings/lemon_sapling"},
+     {"predicate": {"custom_model_data":2000373}, "model": "melonblocks:block/saplings/lime_sapling"},
+     {"predicate": {"custom_model_data":2000374}, "model": "melonblocks:block/saplings/apple_sapling"},
+	 {"predicate": {"custom_model_data":2000558}, "model": "melonblocks:block/saplings/mango_sapling"},
+	 {"predicate": {"custom_model_data":2000585}, "model": "melonblocks:block/saplings/orange_sapling"}
+	]
+}

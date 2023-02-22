@@ -1,0 +1,6 @@
+{
+    "parent": "block/magenta_stained_glass",
+	"overrides": [
+		{"predicate": {"custom_model_data":2000034}, "model": "melonblocks:item/crystals/fearcrystal"}
+	]
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/golden_apple"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":6000}, "model": "melonblocks:item/practice/golden_apple"},
+		{"predicate": {"custom_model_data":2000284}, "model": "melonblocks:item/food/golden_apple_pie"}
+	]
+}

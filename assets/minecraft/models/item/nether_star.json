@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/nether_star"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000004}, "model": "melonblocks:item/shiny_charm"},
+		{"predicate": {"custom_model_data":2000028}, "model": "melonblocks:item/enirahtear"}
+	]
+}

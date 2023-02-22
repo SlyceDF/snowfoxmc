@@ -1,0 +1,6 @@
+{
+  "parent": "item/fishing_rod_cast",
+  "textures": {
+    "layer0": "melonblocks:item/food/fish/misc/fly_fishing_rod_cast"
+  }
+}

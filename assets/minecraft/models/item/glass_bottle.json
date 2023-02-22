@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+	"textures": {
+      "layer0": "item/glass_bottle"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000030}, "model": "melonblocks:item/flask/empty"},
+		{"predicate": {"custom_model_data":2000095}, "model": "melonblocks:item/orbs/empty"},
+		{"predicate": {"custom_model_data":2000435}, "model": "melonblocks:item/food/cup"},
+		{"predicate": {"custom_model_data":2000444}, "model": "melonblocks:item/food/drinking_glass"}
+	]
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_pickaxe"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":3100007}, "model": "melonblocks:item/skins/dpick"},
+		{"predicate": {"custom_model_data":3100035}, "model": "melonblocks:item/skins/tuna"},
+        {"predicate": {"custom_model_data":3100052}, "model": "melonblocks:item/skins/stardust/stardust_pickaxe_golden"},
+        {"predicate": {"custom_model_data":3100060}, "model": "melonblocks:item/skins/nebula/nebula_pickaxe"}
+	]
+}

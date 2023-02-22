@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/lanterns/lantern",
+  "textures": {
+    "layer0": "melonblocks:item/lanterns/wooden_lantern"
+  }
+}

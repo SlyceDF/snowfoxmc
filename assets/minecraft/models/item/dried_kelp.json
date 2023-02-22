@@ -1,0 +1,28 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/dried_kelp"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":400019}, "model": "melonblocks:item/hween/purplesweets"},
+		{"predicate": {"custom_model_data":400020}, "model": "melonblocks:item/hween/chocolatedrop"},
+		{"predicate": {"custom_model_data":400031}, "model": "melonblocks:item/xmas/candy_cane"},
+		{"predicate": {"custom_model_data":2000082}, "model": "melonblocks:item/nugs/nug1"},
+		{"predicate": {"custom_model_data":2000083}, "model": "melonblocks:item/nugs/nug2"},
+		{"predicate": {"custom_model_data":2000256}, "model": "melonblocks:item/food/roe"},
+		{"predicate": {"custom_model_data":2000257}, "model": "melonblocks:item/food/caviar"},
+		{"predicate": {"custom_model_data":2000259}, "model": "melonblocks:item/food/sour_cream"},
+		{"predicate": {"custom_model_data":2000260}, "model": "melonblocks:item/food/cream"},
+		{"predicate": {"custom_model_data":2000261}, "model": "melonblocks:item/food/butter"},
+		{"predicate": {"custom_model_data":2000328}, "model": "melonblocks:item/food/fish/misc/fish_offcuts"},
+		{"predicate": {"custom_model_data":2000402}, "model": "melonblocks:item/food/marshmallow"},
+		{"predicate": {"custom_model_data":2000407}, "model": "melonblocks:item/food/jelly_beans"},
+		{"predicate": {"custom_model_data":2000561}, "model": "melonblocks:item/food/baked_beans"},
+		{"predicate": {"custom_model_data":2000562}, "model": "melonblocks:item/food/boiled_egg"},
+		{"predicate": {"custom_model_data":2000826}, "model": "melonblocks:item/food/pickle_slices"},
+		{"predicate": {"custom_model_data":2000827}, "model": "melonblocks:item/food/strawberry"},
+		{"predicate": {"custom_model_data":2000828}, "model": "melonblocks:item/food/chocolate_strawberry"},
+		{"predicate": {"custom_model_data":2000949}, "model": "melonblocks:item/xmas/holiday_sweets"},
+		{"predicate": {"custom_model_data":2000953}, "model": "melonblocks:item/xmas/merry_pie_fast"}
+	]
+}

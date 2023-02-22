@@ -1,0 +1,6 @@
+{
+	"parent": "melonblocks:item/skins/stardust/stardust_sword",
+	"textures": {
+		"1":"melonblocks:item/skins/stardust/stardust_sword_golden"
+	}
+}

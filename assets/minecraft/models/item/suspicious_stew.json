@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/suspicious_stew"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1000}, "model": "melonblocks:item/food/stone_soup"},
+		{"predicate": {"custom_model_data":2000898}, "model": "melonblocks:item/food/ender_omelette"}
+	]
+}

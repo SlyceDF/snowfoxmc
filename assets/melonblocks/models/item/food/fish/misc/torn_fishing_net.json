@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/food/fish/misc/fishing_net",
+  "textures": {
+    "layer0": "melonblocks:item/food/fish/misc/torn_fishing_net"
+  }
+}

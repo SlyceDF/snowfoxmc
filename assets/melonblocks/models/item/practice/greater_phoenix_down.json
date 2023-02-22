@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "melonblocks:item/phoenixdown/greater_phoenix_down",
+    "layer1": "melonblocks:item/practice/dot"
+  }
+}

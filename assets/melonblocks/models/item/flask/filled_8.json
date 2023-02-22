@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "melonblocks:item/flask/overlay_8",
+    "layer1": "melonblocks:item/flask/empty"
+  }
+}

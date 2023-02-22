@@ -1,0 +1,37 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "melonblocks:item/skins/swordfish"
+  },
+  "display": {
+    "thirdperson_righthand": {
+        "rotation": [ 0, 90, 40 ],
+        "translation": [ 0, 6.5, 1 ],
+        "scale": [ 1.6, 1.6, 1 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ 0, -90, -40 ],
+        "translation": [ 0, 6.5, 1 ],
+        "scale": [ 1.6, 1.6, 1 ]
+    },
+    "firstperson_righthand": {
+        "rotation": [ 0, 90, 50 ],
+        "translation": [ 1.13, 3.2, 1.13 ],
+        "scale": [ 0.7, 0.7, 0.7 ]
+    },
+    "firstperson_lefthand": {
+        "rotation": [ 0, -90, -50 ],
+        "translation": [ 1.13, 3.2, 1.13 ],
+        "scale": [ 0.7, 0.7, 0.7 ]
+    },
+	"ground": {
+        "translation": [ 0, 4, 0 ],
+        "scale": [ 1.25, 1.25, 0.68 ]
+	},
+	"fixed": {
+		"rotation":  [ 0, 0, 45 ],
+		"translation":  [ 0, 0, 0 ],
+		"scale":  [ 4.01, 4.01, 4.01 ]
+	}
+  }
+}

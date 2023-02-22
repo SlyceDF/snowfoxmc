@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1100001}, "model": "melonblocks:item/gems/diamond/diamond_1"},
+		{"predicate": {"custom_model_data":1100002}, "model": "melonblocks:item/gems/diamond/diamond_2"},
+		{"predicate": {"custom_model_data":1100003}, "model": "melonblocks:item/gems/diamond/diamond_3"},
+		{"predicate": {"custom_model_data":1100004}, "model": "melonblocks:item/gems/diamond/diamond_4"},
+		{"predicate": {"custom_model_data":1100005}, "model": "melonblocks:item/gems/diamond/diamond_5"}
+	]
+}

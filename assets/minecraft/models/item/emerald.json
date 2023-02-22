@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/emerald"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1000}, "model": "melonblocks:item/coins/gem"},
+		{"predicate": {"custom_model_data":1100021}, "model": "melonblocks:item/gems/emerald/emerald_1"},
+		{"predicate": {"custom_model_data":1100022}, "model": "melonblocks:item/gems/emerald/emerald_2"},
+		{"predicate": {"custom_model_data":1100023}, "model": "melonblocks:item/gems/emerald/emerald_3"},
+		{"predicate": {"custom_model_data":1100024}, "model": "melonblocks:item/gems/emerald/emerald_4"},
+		{"predicate": {"custom_model_data":1100025}, "model": "melonblocks:item/gems/emerald/emerald_5"}
+	]
+}

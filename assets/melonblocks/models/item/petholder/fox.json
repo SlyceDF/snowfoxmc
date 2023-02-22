@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/petholder/fox_item",
+  "textures": {
+    "layer0": "melonblocks:item/petholder/fox"
+  }
+}

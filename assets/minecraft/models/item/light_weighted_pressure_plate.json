@@ -1,0 +1,7 @@
+{
+    "parent": "block/light_weighted_pressure_plate",
+	"overrides": [
+		{"predicate": {"custom_model_data":2000051}, "model": "melonblocks:item/active_tp_tablet"},
+		{"predicate": {"custom_model_data":2000052}, "model": "melonblocks:item/inactive_tp_tablet"}
+	]
+}

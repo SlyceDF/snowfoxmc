@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pumpkin_pie"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000281}, "model": "melonblocks:item/food/sweet_berry_pie"},
+		{"predicate": {"custom_model_data":2000282}, "model": "melonblocks:item/food/apple_pie"},
+		{"predicate": {"custom_model_data":2000283}, "model": "melonblocks:item/food/shepherds_pie"},
+		{"predicate": {"custom_model_data":2000319}, "model": "melonblocks:item/food/berry_cobbler"},
+		{"predicate": {"custom_model_data":2000387}, "model": "melonblocks:item/food/lime_pie"},
+		{"predicate": {"custom_model_data":2000388}, "model": "melonblocks:item/food/lemon_pie"},
+		{"predicate": {"custom_model_data":2000389}, "model": "melonblocks:item/food/garden_pie"},
+		{"predicate": {"custom_model_data":2000457}, "model": "melonblocks:item/food/summer_pie"}
+	]
+}

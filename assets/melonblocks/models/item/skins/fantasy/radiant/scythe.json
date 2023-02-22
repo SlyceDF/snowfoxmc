@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "melonblocks:item/skins/fantasy/nongfu_scythe",
+	"textures": {
+		"0": "melonblocks:item/skins/fantasy/radiant/scythe",
+		"particle": "melonblocks:item/skins/fantasy/radiant/scythe"
+	}
+}

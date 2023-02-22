@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/beetroot_seeds"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":2000358}, "model": "melonblocks:item/food/tomato_seeds"},
+		{"predicate": {"custom_model_data":2000378}, "model": "melonblocks:item/food/lettuce_seeds"}
+	]
+}

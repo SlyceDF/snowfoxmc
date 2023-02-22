@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/blaze_powder"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":25}, "model": "melonblocks:item/tails/tail_calico"},
+		{"predicate": {"custom_model_data":26}, "model": "melonblocks:item/tails/tail_tuxedo"},
+		{"predicate": {"custom_model_data":27}, "model": "melonblocks:item/tails/tail_tabby"},
+		{"predicate": {"custom_model_data":28}, "model": "melonblocks:item/tails/tail_white"},
+		{"predicate": {"custom_model_data":29}, "model": "melonblocks:item/tails/tail_foxred"},
+		{"predicate": {"custom_model_data":30}, "model": "melonblocks:item/tails/tail_foxwhite"},
+		{"predicate": {"custom_model_data":33}, "model": "melonblocks:item/tails/tail_otiger"},
+		{"predicate": {"custom_model_data":34}, "model": "melonblocks:item/tails/tail_gtiger"},
+		{"predicate": {"custom_model_data":152}, "model": "melonblocks:item/tails/tail_big_white"}
+	]
+}

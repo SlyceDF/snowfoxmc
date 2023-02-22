@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_hoe"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1000}, "model": "melonblocks:item/wrench"},
+		{"predicate": {"custom_model_data":3100020}, "model": "melonblocks:item/skins/fantasy/azure/scythe"},
+		{"predicate": {"custom_model_data":3100035}, "model": "melonblocks:item/skins/tuna"},
+        {"predicate": {"custom_model_data":3100055}, "model": "melonblocks:item/skins/stardust/stardust_hoe_golden"},
+        {"predicate": {"custom_model_data":3100063}, "model": "melonblocks:item/skins/nebula/nebula_hoe"},
+		{"predicate": {"custom_model_data":3100078}, "model": "melonblocks:item/skins/fantasy/umbral/scythe"},
+		{"predicate": {"custom_model_data":3100083}, "model": "melonblocks:item/skins/fantasy/sanguine/scythe"},
+		{"predicate": {"custom_model_data":3100088}, "model": "melonblocks:item/skins/fantasy/radiant/scythe"},
+		{"predicate": {"custom_model_data":3100093}, "model": "melonblocks:item/skins/fantasy/glacial/scythe"}
+	]
+}

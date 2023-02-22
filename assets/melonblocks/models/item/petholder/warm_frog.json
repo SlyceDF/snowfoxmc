@@ -1,0 +1,6 @@
+{
+  "parent": "melonblocks:item/petholder/frog",
+  "textures": {
+    "0": "melonblocks:item/petholder/warm_frog"
+  }
+}

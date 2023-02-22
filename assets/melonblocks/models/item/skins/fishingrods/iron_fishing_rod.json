@@ -1,0 +1,8 @@
+{
+    "parent": "melonblocks:item/skins/fishingrods/normal_fishing_rod",
+	"credit": "Made by Purple Anvil AKA ogmydog",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "melonblocks:item/skins/fishingrods/iron_fishing_rod"
+	}
+}

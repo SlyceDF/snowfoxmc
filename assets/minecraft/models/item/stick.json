@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1000}, "model": "melonblocks:item/mobarena/wand"},
+		{"predicate": {"custom_model_data":1200010}, "model": "melonblocks:item/skins/gun/gun"},
+		{"predicate": {"custom_model_data":2000814}, "model": "melonblocks:item/wands/normal_wand"},
+		{"predicate": {"custom_model_data":2000815}, "model": "melonblocks:item/wands/oak_wand"},
+		{"predicate": {"custom_model_data":2000816}, "model": "melonblocks:item/wands/birch_wand"},
+		{"predicate": {"custom_model_data":2000817}, "model": "melonblocks:item/wands/spruce_wand"},
+		{"predicate": {"custom_model_data":2000818}, "model": "melonblocks:item/wands/jungle_wand"},
+		{"predicate": {"custom_model_data":2000819}, "model": "melonblocks:item/wands/acacia_wand"},
+		{"predicate": {"custom_model_data":2000820}, "model": "melonblocks:item/wands/mangrove_wand"},
+		{"predicate": {"custom_model_data":2000821}, "model": "melonblocks:item/wands/dark_oak_wand"},
+		{"predicate": {"custom_model_data":2000822}, "model": "melonblocks:item/wands/crimson_wand"},
+		{"predicate": {"custom_model_data":2000823}, "model": "melonblocks:item/wands/warped_wand"},
+		{"predicate": {"custom_model_data":2000899}, "model": "melonblocks:item/skins/wands/wand_air"},
+		{"predicate": {"custom_model_data":2000900}, "model": "melonblocks:item/skins/wands/wand_aqua"},
+		{"predicate": {"custom_model_data":2000901}, "model": "melonblocks:item/skins/wands/wand_blood"},
+		{"predicate": {"custom_model_data":2000902}, "model": "melonblocks:item/skins/wands/wand_electric"},
+		{"predicate": {"custom_model_data":2000903}, "model": "melonblocks:item/skins/wands/wand_flame"},
+		{"predicate": {"custom_model_data":2000904}, "model": "melonblocks:item/skins/wands/wand_terra"},
+		{"predicate": {"custom_model_data":3100009}, "model": "melonblocks:item/skins/staves/staff_night"},
+		{"predicate": {"custom_model_data":3100010}, "model": "melonblocks:item/skins/staves/staff_divine_staff"},
+		{"predicate": {"custom_model_data":3100011}, "model": "melonblocks:item/skins/staves/staff_olwen_staff"},
+		{"predicate": {"custom_model_data":3100012}, "model": "melonblocks:item/skins/staves/staff_lich_staff"},
+		{"predicate": {"custom_model_data":3100013}, "model": "melonblocks:item/skins/staves/staff_black_snake_staff"},
+		{"predicate": {"custom_model_data":3100014}, "model": "melonblocks:item/skins/staves/staff_holy_celtic_staff"},
+		{"predicate": {"custom_model_data":3100015}, "model": "melonblocks:item/skins/staves/staff_unholy_wisdom"},
+		{"predicate": {"custom_model_data":3100016}, "model": "melonblocks:item/skins/staves/staff_goblin_witch_staff"},
+		{"predicate": {"custom_model_data":3100029}, "model": "melonblocks:item/skins/staves/staff_northgate_guardian_staff"},
+		{"predicate": {"custom_model_data":3100030}, "model": "melonblocks:item/skins/staves/staff_golden_crook"},
+		{"predicate": {"custom_model_data":3110016}, "model": "melonblocks:item/skins/staves/staff_sagrada_winged_staff"}
+	]
+}
