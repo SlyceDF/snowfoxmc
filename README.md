@@ -11,6 +11,5 @@ The ones remade to 16x16 are these:
 :S - made by Slyce
 :Q - made by QuackDuck
 
-
 planned:
 - nepthalite/nethimond/nethmalite conglomerates:Q, nepthalite/nethimond/nethmalite ingots:Q, nethimond/nethmalite dusts:Q, firegold powder:Q
