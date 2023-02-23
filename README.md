@@ -12,7 +12,6 @@ The ones remade to 16x16 are these:
 - Echo cluster:S, tuned quartz:S, pocket sand:S, accellbuck:S, quiver:S
 
 :S - made by Slyce
-
 :Q - made by QuackDuck
 
 planned:
