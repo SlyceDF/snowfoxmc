@@ -6,9 +6,13 @@ The ones remade to 16x16 are these:
 - All blocks (custom leaves, saplings etc.):S
 - Mob Arena weapons/tools (bandages, whistle, the default wand etc.):S
 - Mango:S, lime:S, lemon:S, orange:S, cracked coconut:S, coconut shell:S, crab:Q
-- Hallow powders/ingots:S, reinforced/extra reinforced ingots:S, diamond/netherite/diamethyst/sea/nautilus/nepthalite dusts:S, echo cluster:S, tuned quartz:S, pocket sand:S, accellbuck:S, quiver:S
+- Hallow powders/ingots:S
+- Reinforced/extra reinforced ingots:S
+- Diamond/netherite/diamethyst/sea/nautilus/nepthalite dusts:S
+- Echo cluster:S, tuned quartz:S, pocket sand:S, accellbuck:S, quiver:S
 
 :S - made by Slyce
+
 :Q - made by QuackDuck
 
 planned:
