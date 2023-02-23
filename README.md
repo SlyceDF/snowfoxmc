@@ -11,7 +11,7 @@ The ones remade to 16x16 are these:
 - Diamond/netherite/diamethyst/sea/nautilus/nepthalite dusts:S
 - Echo cluster:S, tuned quartz:S, pocket sand:S, accellbuck:S, quiver:S
 
-:S - made by Slyce
+:S - made by Slyce <br/>
 :Q - made by QuackDuck
 
 planned:
