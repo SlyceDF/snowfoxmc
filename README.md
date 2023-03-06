@@ -3,19 +3,10 @@ A reworking of the snowfoxmc resourcepack to fit with the vanilla 16x16.
 
 :: This resource pack is in **early development**, and most textures are not yet remade!
 The ones remade to 16x16 are these:
-- All blocks (custom leaves, saplings etc.):S
-- Mob Arena weapons/tools (bandages, whistle, the default wand etc.):S
-- Mango:S, lime:S, lemon:S, orange:S, cracked coconut:S, coconut shell:S, crab:Q
-- Hallow powders/ingots:S
-- Reinforced/extra reinforced ingots:S
-- Diamond/netherite/diamethyst/sea/nautilus/nepthalite dusts:S
-- Echo cluster:S, tuned quartz:S, pocket sand:S, accellbuck:S, quiver:S
-
-:S - made by Slyce <br/>
-:Q - made by QuackDuck
-
-planned:
-- nepthalite/nethimond/nethmalite conglomerates:Q,
-- nepthalite/nethimond/nethmalite ingots:Q, 
-- nethimond/nethmalite dusts:Q, 
-- firegold powder:Q
+- All blocks (custom leaves, saplings etc.)
+- Mob Arena weapons/tools (bandages, whistle, the default wand etc.)
+- Mango, lime, lemon, orange, cracked coconut, coconut shell, blue crab, anchovy
+- All ingots, dusts, conglomerates
+- Echo cluster, tuned quartz, pocket sand, accellbuck, quiver
+- All perfect gems
+- Grass Fiber
