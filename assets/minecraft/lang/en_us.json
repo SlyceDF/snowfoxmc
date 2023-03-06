@@ -42,5 +42,7 @@
   "biome.alt.the_end": "The End",
   "biome.alt.end_barrens": "End Barrens",
   "biome.alt.end_midlands": "End Midlands",
-  "biome.alt.end_highlands": "End Highlands"
+  "biome.alt.end_highlands": "End Highlands",
+  "block.minecraft.lodestone": "Anchorlode"
+
 }

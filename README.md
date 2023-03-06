@@ -10,3 +10,5 @@ The ones remade to 16x16 are these:
 - Echo cluster, tuned quartz, pocket sand, accellbuck, quiver
 - All perfect gems
 - Grass Fiber
+- Jar
+- Pickup mobs
